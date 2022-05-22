@@ -85,6 +85,7 @@ namespace Core
         }
 
 
+
         //public void DeleteOneFile(string name)  //del
         //{
         //    File.Delete(path + name);
